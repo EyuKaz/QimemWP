@@ -2,8 +2,6 @@
 
 **Transform your WordPress site into a voice-activated experience with seamless navigation, content creation, and smart speaker integration.**
 
-![QimemWP Voice Widget]
-
 **Contributors**: yourname  
 **Tags**: voice navigation, accessibility, smart speaker, web speech api, wordpress plugin  
 **Requires at least**: WordPress 6.6  
