@@ -2,7 +2,7 @@
 
 **Transform your WordPress site into a voice-activated experience with seamless navigation, content creation, and smart speaker integration.**
 
-**Contributors**: yourname  
+**Contributors**: EyuKaz 
 **Tags**: voice navigation, accessibility, smart speaker, web speech api, wordpress plugin  
 **Requires at least**: WordPress 6.6  
 **Tested up to**: WordPress 6.6  
