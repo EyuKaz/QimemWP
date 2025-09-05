@@ -97,3 +97,5 @@ Follow these steps to install and configure QimemWP:
 ## Developer Guide
 
 QimemWP is built for extensibility, allowing developers to customize and integrate with ease. Below are detailed instructions for extending the plugin.
+
+**Detailed Instructions coming soon**
